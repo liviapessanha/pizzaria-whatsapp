@@ -166,70 +166,70 @@ export const products: Product[] = [
     category: 'grande',
     name: 'Chocolate',
     image: '/images/pizzas/pizza7.png',
-    description: '500ml',
+    description: 'Descrição da pizza em mais de uma linha muito legal bem interessante',
     price: 79
   },
   {
     id: 22,
     category: 'bebida',
     name: 'Fanta Laranja',
-    image: '/images/pizzas/Bebida1.png',
+    image: '/images/bebidas/Bebida1.png',
     price: 9
   },
   {
     id: 23,
     category: 'bebida',
     name: 'Água com Gás',
-    image: '/images/pizzas/Bebida2.png',
+    image: '/images/bebidas/Bebida2.png',
     price: 9
   },
   {
     id: 24,
     category: 'bebida',
     name: 'Fanta Uva',
-    image: '/images/pizzas/Bebida3.png',
+    image: '/images/bebidas/Bebida3.png',
     price: 9
   },
   {
     id: 25,
     category: 'bebida',
     name: 'H20 de limão',
-    image: '/images/pizzas/Bebida4.png',
+    image: '/images/bebidas/Bebida4.png',
     price: 9
   },
   {
     id: 26,
     category: 'bebida',
     name: 'Sprite',
-    image: '/images/pizzas/Bebida5.png',
+    image: '/images/bebidas/Bebida5.png',
     price: 9
   },
   {
     id: 27,
     category: 'bebida',
     name: 'Coca-Cola',
-    image: '/images/pizzas/Bebida6.png',
+    image: '/images/bebidas/Bebida6.png',
     price: 9
   },
   {
     id: 28,
     category: 'bebida',
     name: 'Suco de Manga',
-    image: '/images/pizzas/Bebida7.png',
+    image: '/images/bebidas/Bebida7.png',
     price: 9
   },
   {
     id: 29,
     category: 'bebida',
     name: 'Suco de Laranja',
-    image: '/images/pizzas/Bebida8.png',
+    image: '/images/bebidas/Bebida8.png',
     price: 9
   },
   {
     id: 28,
     category: 'bebida',
     name: 'Suco de Melancia',
-    image: '/images/pizzas/Bebida9.png',
+    image: '/images/bebidas/Bebida9.png',
     price: 9
   },
 ]
