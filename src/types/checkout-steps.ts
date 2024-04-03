@@ -1,0 +1,1 @@
+export type chekoutSteps = "user" | "address" | "finish";
